@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-.btn btn-primary{
+#button-1{
     background-color:blue ;
     color: white;
 }
-.btn btn-secondary{
+#button-2{
     background-color:white ;
     color: black;
 }

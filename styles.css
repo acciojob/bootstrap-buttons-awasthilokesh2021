@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-#button-1{
+.btn btn-primary{
     background-color:blue ;
     color: white;
 }
-#button-2{
+.btn btn-secondary{
     background-color:white ;
     color: black;
 }
@@ -29,5 +29,8 @@
 #button-7{
     background-color:rgb(216, 211, 211) ;
     color: black;
+    border: none;
+}
+#button-8{
     border: none;
 }
